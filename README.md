@@ -2,7 +2,7 @@
 
 **Your Personal AI-Powered Assistant for Enhanced Productivity**
 
-![Project Demo](https://placehold.co/800x400?text=Virtual+Assistant+Demo)
+
 
 ## Table of Contents
 - [About The Project](#about-the-project)
